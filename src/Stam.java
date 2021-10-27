@@ -5,7 +5,7 @@ public class Stam {
         //Scanner s = new Scanner(System.in);
         int n1 = 10;
         int n2 = 4;
-
+        int x3 = 0;
         double result = (double) n1 / n2;
         System.out.println(result);
     }
