@@ -8,5 +8,6 @@ public class Stam {
         int x3 = 0;
         double result = (double) n1 / n2;
         System.out.println(result);
+
     }
 }
